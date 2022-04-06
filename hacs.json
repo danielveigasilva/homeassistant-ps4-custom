@@ -1,4 +1,8 @@
 {
   "name": "PS4 Custom",
-  "domains": ["media_player"]
+  "domains": [
+    "media_player",
+    "switch",
+    "sensor"
+  ],
 }
